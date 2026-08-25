@@ -32,4 +32,4 @@ Analizar el desempeño comercial mediante indicadores de ventas, rentabilidad y 
  
 ## Captura
 
-![Dashboard Ventas](dashboard_ventas.png
+![Dashboard Ventas](dashboard_ventas.png)
