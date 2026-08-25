@@ -41,4 +41,4 @@ Un registro correcto debe:
  
 ## Captura
  
-dashboard_calidad.png
+![Dashboard Ventas](dashboard_calidad.png)
