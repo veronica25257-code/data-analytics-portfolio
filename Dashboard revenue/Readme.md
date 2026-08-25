@@ -22,5 +22,5 @@ Monitorear discrepancias entre eventos de red y eventos facturados para identifi
 - DAX
 - Excel
 # Dashboard de Revenue Assurance
-## Vista previa
-dashboard_revenue.png
+## Captuta
+![Dashboard Ventas](dashboard_revenue.png)
