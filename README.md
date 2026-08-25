@@ -34,7 +34,6 @@ Análisis de conciliación de eventos y detección de pérdidas de ingresos en t
 ## Tecnologías
  
 - Power BI
-- SQL
 - Excel
 - DAX
 - Data Analytics
